@@ -1,1 +1,2 @@
 # CS-320-Portfolio
+You can make sure that the code is functional and secure by constant testing. Test in order to make sure that the code is secure, maven dependency checks are a great asset in helping one test. Most people will not understand coding, so being able to interpret what the client is saying into code is very important in making sure you hit all the requirements. In order to design software you should ask the client what it is exactly that they are looking for. So that one can get all the important requirements for the software at hand. 
